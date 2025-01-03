@@ -1,2 +1,2 @@
 # CursorAI
-🚀 Corporate Audit AI: Advanced SEC Filing Analysis Platform
+🚀 Cursor AI: Advanced SEC Filing Analysis Platform
