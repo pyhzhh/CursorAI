@@ -193,7 +193,7 @@ Our platform generates three distinct levels of analysis:
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/Cursor-ai.git
+[git clone https://github.com/yourusername/CursorAI.git]
 cd Cursor-ai
 
 # Install dependencies
